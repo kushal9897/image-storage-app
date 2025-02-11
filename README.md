@@ -1,6 +1,6 @@
 # Image Storage App Deployment with Terraform & Docker
 
-This project sets up an image storage application that uploads images to an AWS S3 bucket. The infrastructure is provisioned using Terraform, and the application is containerized using **Docker**.
+This project sets up an image storage application that uploads images to an **AWS S3 bucket**. The infrastructure is provisioned using **Terraform**, and the application is containerized using **Docker**.
 
 ## 🚀 Project Overview
 - **Application**: `server.js` (Node.js app for image uploads)
